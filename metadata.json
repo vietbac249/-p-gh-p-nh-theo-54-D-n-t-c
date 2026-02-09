@@ -1,0 +1,7 @@
+{
+  "name": "Áp ghép ảnh theo 54 Dân tộc ",
+  "description": "Transform your photos by placing yourself in breathtaking Vietnamese locations wearing traditional ethnic costumes using advanced AI technology.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
